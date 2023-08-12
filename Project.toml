@@ -1,0 +1,13 @@
+name = "Pack1"
+uuid = "cc01df09-5213-447c-9a1b-5a24cdf8b096"
+authors = ["thautwarm <twshere@outlook.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
