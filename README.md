@@ -1,5 +1,9 @@
 # Pack1.jl
 
+[![CI](https://github.com/thautwarm/Pack1.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/thautwarm/Pack1.jl/actions)
+[![codecov](https://codecov.io/gh/thautwarm/Pack1.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/thautwarm/Pack1.jl)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/thautwarm/Pack1.jl/blob/master/LICENSE)
+
 ## Installation
 
 ```julia
